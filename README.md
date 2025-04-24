@@ -1,6 +1,3 @@
-## Hi there 👋
-
-<!--
 **mwoodley-illinois/mwoodley-illinois** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 I'm an Assistant Clinical Professor of Computer Science at the University of Illinois at Urbana-Champaign, where I focus on project-based software engineering courses that emphasize teamwork, iteration, and professional development. I design experiences that help students build real-world skills: working with version control, practicing effective code review, managing scope, and learning to communicate as engineers.
